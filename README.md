@@ -1,4 +1,4 @@
-## Dacon Data analysis compitition with USW. 타이타닉 : 과연 누가 살아남았을까
+## Dacon Data analysis 1st compitition with USW. 타이타닉 : 과연 누가 살아남았을까
 
 ``` RMS 타이타닉은 역사상 가장 유명한 난파선 중 하나입니다.
 
