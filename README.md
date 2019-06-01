@@ -1,4 +1,6 @@
-## Dacon Data analysis 1st compitition with USW. 타이타닉 : 과연 누가 살아남았을까
+## Dacon Data analysis compitition with USW.2019 
+
+```##Dacon Data analysis 1st compitition with USW. 타이타닉 : 과연 누가 살아남았을까
 
 RMS 타이타닉은 역사상 가장 유명한 난파선 중 하나입니다.
 
@@ -37,7 +39,7 @@ Embarked: 배에 탑승한 위치(C = Cherbourg, Q = Queenstown, S = Southampton
 ③ gender_submission.csv - submission 파일의 예시
 
 PassengerId : 탑승객의 고유 아이디
-Survived : 생존여부에 대한 예측치 
+Survived : 생존여부에 대한 예측치 ```
 
 
 
