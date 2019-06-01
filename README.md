@@ -1,6 +1,6 @@
 ## Dacon Data analysis 1st compitition with USW. 타이타닉 : 과연 누가 살아남았을까
 
-` RMS 타이타닉은 역사상 가장 유명한 난파선 중 하나입니다.
+RMS 타이타닉은 역사상 가장 유명한 난파선 중 하나입니다.
 
 1912년 4월 15일, 타이타닉은 항해중 빙산과의 충돌로 인해 침몰합니다. 탑승인원 2224명 중 1502명이 사망한 비극적인 사건이었고, 선박의 안전규정을 개선시키는 계기가 되었습니다.
 
@@ -37,11 +37,13 @@ Embarked: 배에 탑승한 위치(C = Cherbourg, Q = Queenstown, S = Southampton
 ③ gender_submission.csv - submission 파일의 예시
 
 PassengerId : 탑승객의 고유 아이디
-Survived : 생존여부에 대한 예측치 `
+Survived : 생존여부에 대한 예측치 
 
-### Dacon Data analysis 2nd compitition with USW. 축구 데이터 : 누가 이길 것인가
 
-`토토 중 가장 인기 있는 종목인 축구 데이터입니다.
+
+## Dacon Data analysis 2nd compitition with USW. 축구 데이터 : 누가 이길 것인가
+
+토토 중 가장 인기 있는 종목인 축구 데이터입니다.
 
 토토를 한다고 생각하고 어떤 팀이 이겼을 지 예측해보세요! 
 
@@ -84,4 +86,3 @@ result : 예측한 결과값 기입
 Caution	① 대회 및 수상에 관련된 일정과 규칙은 상황에 따라서 변동이 있을 수 있습니다. 공지 및 업데이트를 확인하시기 바랍니다.
 ② 인간 예측, 수기 입력, API연동, 검색 등을 통해서 submission 제출 시 실격 처리 및 랭킹에서 제외됩니다.
 ③ 외부 데이터는 사용 금지입니다. 
-`
